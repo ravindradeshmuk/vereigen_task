@@ -1,0 +1,62 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+section{
+    width: 100%;
+    min-height: 650px;
+}
+/* .banner{
+     background: linear-gradient(90deg, 
+    rgb(110, 165, 88),   
+    hwb(101 33% 39%), 
+    hsl(100, 32%, 49%), 
+    rgb(111, 165, 81), 
+    rgb(102, 165, 74),   
+    rgb( 89, 143, 63), 
+    rgb( 77, 124, 54), 
+    rgb( 64, 104, 45), 
+    rgb( 51,  83, 36), 
+    #456237    
+   
+);
+
+height:100vh;
+margin: 10px;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+overflow: hidden;
+position: relative;
+} */
+.first{
+height:100vh;
+margin: 10px;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+overflow: hidden;
+position: relative;
+    background: linear-gradient(90deg, 
+   rgb(110, 165, 88),   
+   hwb(101 33% 39%), 
+   hsl(100, 32%, 49%), 
+   rgb(111, 165, 81), 
+   rgb(102, 165, 74),   
+   rgb( 89, 143, 63), 
+   rgb( 77, 124, 54), 
+   rgb( 64, 104, 45), 
+   rgb( 51,  83, 36), 
+   #456237    
+  
+);
+} 
+.banner .wave{
+   position: absolute; 
+   bottom: 0;
+   width: 100%;
+   left: 0;
+   top: 230px;
+
+}
